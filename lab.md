@@ -1,1 +1,3 @@
 First str
+
+Enter str
